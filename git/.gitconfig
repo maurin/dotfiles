@@ -1,0 +1,13 @@
+[user]
+	name = pablo a maurin
+	email = pablo@maurin.org
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+	interactive = auto
+[push]
+	default = simple
+[core]
+	excludesfile = ~/.gitignore_global
+	autocrlf = input
